@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://roofresponseai.com/sitemap.xml
